@@ -1,2 +1,3 @@
 # CTuple
-A type-safe tuple implementation in C
+
+A quick weekend project to see how I would implement Python tuples in C.
